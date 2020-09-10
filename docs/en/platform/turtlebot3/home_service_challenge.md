@@ -70,7 +70,7 @@ page_number: 24
 ```bash
 $ cd ~/catkin_ws/src/
 $ git clone https://github.com/ROBOTIS-GIT/turtlebot3_home_service_challenge.git
-$ sudo apt-get install ros-kinetic-ar-track-alvar ros-kinetic-ar-track-alvar-msgs
+$ sudo apt-get install ros-kinetic-ar-track-alvar ros-kinetic-ar-track-alvar-msgs ros-kinetic-joint-state-publisher-gui
 $ cd ~/catkin_ws && catkin_make
 ```
 
