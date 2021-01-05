@@ -37,3 +37,4 @@ sidebar:
 |                                             THORMANG3                                             |
 | :-----------------------------------------------------------------------------------------------: |
 | [![](/assets/images/platform/thormang3/thormang3.png)](/docs/en/platform/thormang3/introduction/) |
+[Bluetooth solution diy](https://www.feasycom.com/)
